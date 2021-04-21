@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/ToporPortfolio/static/css/main.868a0e0b.chunk.css",
-    "main.js": "/ToporPortfolio/static/js/main.5841981d.chunk.js",
-    "main.js.map": "/ToporPortfolio/static/js/main.5841981d.chunk.js.map",
+    "main.css": "/ToporPortfolio/static/css/main.c1f2eaae.chunk.css",
+    "main.js": "/ToporPortfolio/static/js/main.abfbaa09.chunk.js",
+    "main.js.map": "/ToporPortfolio/static/js/main.abfbaa09.chunk.js.map",
     "runtime-main.js": "/ToporPortfolio/static/js/runtime-main.d5e68219.js",
     "runtime-main.js.map": "/ToporPortfolio/static/js/runtime-main.d5e68219.js.map",
     "static/css/2.7fc9bc2b.chunk.css": "/ToporPortfolio/static/css/2.7fc9bc2b.chunk.css",
-    "static/js/2.68f26474.chunk.js": "/ToporPortfolio/static/js/2.68f26474.chunk.js",
-    "static/js/2.68f26474.chunk.js.map": "/ToporPortfolio/static/js/2.68f26474.chunk.js.map",
+    "static/js/2.78a38084.chunk.js": "/ToporPortfolio/static/js/2.78a38084.chunk.js",
+    "static/js/2.78a38084.chunk.js.map": "/ToporPortfolio/static/js/2.78a38084.chunk.js.map",
     "index.html": "/ToporPortfolio/index.html",
     "static/css/2.7fc9bc2b.chunk.css.map": "/ToporPortfolio/static/css/2.7fc9bc2b.chunk.css.map",
-    "static/css/main.868a0e0b.chunk.css.map": "/ToporPortfolio/static/css/main.868a0e0b.chunk.css.map",
-    "static/js/2.68f26474.chunk.js.LICENSE.txt": "/ToporPortfolio/static/js/2.68f26474.chunk.js.LICENSE.txt",
+    "static/css/main.c1f2eaae.chunk.css.map": "/ToporPortfolio/static/css/main.c1f2eaae.chunk.css.map",
+    "static/js/2.78a38084.chunk.js.LICENSE.txt": "/ToporPortfolio/static/js/2.78a38084.chunk.js.LICENSE.txt",
     "static/media/CV.3b302851.pdf": "/ToporPortfolio/static/media/CV.3b302851.pdf",
-    "static/media/List.5c196ac6.JPG": "/ToporPortfolio/static/media/List.5c196ac6.JPG",
+    "static/media/covidMap.a3b382ca.JPG": "/ToporPortfolio/static/media/covidMap.a3b382ca.JPG",
     "static/media/drag-drop.a63722b8.JPG": "/ToporPortfolio/static/media/drag-drop.a63722b8.JPG",
     "static/media/img.9a281fb7.jpg": "/ToporPortfolio/static/media/img.9a281fb7.jpg",
     "static/media/validator.a3d8db0a.JPG": "/ToporPortfolio/static/media/validator.a3d8db0a.JPG"
@@ -21,8 +21,8 @@
   "entrypoints": [
     "static/js/runtime-main.d5e68219.js",
     "static/css/2.7fc9bc2b.chunk.css",
-    "static/js/2.68f26474.chunk.js",
-    "static/css/main.868a0e0b.chunk.css",
-    "static/js/main.5841981d.chunk.js"
+    "static/js/2.78a38084.chunk.js",
+    "static/css/main.c1f2eaae.chunk.css",
+    "static/js/main.abfbaa09.chunk.js"
   ]
 }
